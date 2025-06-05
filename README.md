@@ -27,7 +27,7 @@ npm install
 
 
 ▶️ Como rodar
-ng serve --ssl
+ng s -o
 
 
 📋 Funcionalidades
